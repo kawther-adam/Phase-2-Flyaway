@@ -1,0 +1,49 @@
+2022-10-16 13:30:16,317 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-16 14:51:33,830 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-17 06:26:35,048 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-17 07:02:46,878 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-17 07:26:27,495 [Worker-32: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Phase2Project:Phase2Project:0.0.1-SNAPSHOT @ C:\Users\zahra\eclipse-workspace\phase2\Phase2Project\pom.xml.
+2022-10-17 07:26:29,563 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 07:26:29,565 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zahra\eclipse-workspace\phase2\Phase2Project\src\main\resources
+2022-10-17 07:26:29,570 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 07:26:29,571 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zahra\eclipse-workspace\phase2\Phase2Project\src\test\resources
+2022-10-17 07:26:30,211 [Worker-32: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Phase2Project/src/main/java
+2022-10-17 07:26:30,213 [Worker-32: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Phase2Project/src/test/java
+2022-10-17 07:26:31,122 [Worker-34: Building Project Phase2Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 07:26:31,123 [Worker-34: Building Project Phase2Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zahra\eclipse-workspace\phase2\Phase2Project\src\main\resources
+2022-10-17 07:26:31,127 [Worker-34: Building Project Phase2Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 07:26:31,128 [Worker-34: Building Project Phase2Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zahra\eclipse-workspace\phase2\Phase2Project\src\test\resources
+2022-10-17 07:26:31,458 [Worker-32: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-17 07:26:31,761 [Worker-32: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Phase2Project:Phase2Project:0.0.1-SNAPSHOT @ C:\Users\zahra\eclipse-workspace\phase2\Phase2Project\pom.xml.
+2022-10-17 07:26:32,442 [Worker-32: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Phase2Project/src/main/java
+2022-10-17 07:26:32,443 [Worker-32: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Phase2Project/src/test/java
+2022-10-17 07:26:32,716 [Worker-32: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Phase2Project
+2022-10-17 07:26:32,726 [Worker-32: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-17 07:26:32,925 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 07:26:32,926 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zahra\eclipse-workspace\phase2\Phase2Project\src\main\resources
+2022-10-17 07:26:32,930 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 07:26:32,930 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zahra\eclipse-workspace\phase2\Phase2Project\src\test\resources
+2022-10-17 07:26:32,931 [Worker-34: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Phase2Project
+2022-10-17 07:26:32,931 [Worker-34: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Phase2Project
+2022-10-17 07:26:32,989 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 07:42:36,703 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Phase2Project:Phase2Project:0.0.1-SNAPSHOT @ C:\Users\zahra\eclipse-workspace\phase2\Phase2Project\pom.xml.
+2022-10-17 07:42:37,188 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 07:42:37,189 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zahra\eclipse-workspace\phase2\Phase2Project\src\main\resources
+2022-10-17 07:42:37,193 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 07:42:37,195 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zahra\eclipse-workspace\phase2\Phase2Project\src\test\resources
+2022-10-17 07:42:37,195 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Phase2Project
+2022-10-17 07:42:37,195 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Phase2Project
+2022-10-17 07:42:37,201 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 07:43:20,626 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-17 07:43:20,835 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Phase2Project:Phase2Project:0.0.1-SNAPSHOT @ C:\Users\zahra\eclipse-workspace\phase2\Phase2Project\pom.xml.
+2022-10-17 07:43:21,172 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Phase2Project/src/main/java
+2022-10-17 07:43:21,173 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Phase2Project/src/test/java
+2022-10-17 07:43:21,770 [Worker-42: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Phase2Project
+2022-10-17 07:43:21,774 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-10-17 07:43:21,799 [Worker-38: Building Project Phase2Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 07:43:21,800 [Worker-38: Building Project Phase2Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zahra\eclipse-workspace\phase2\Phase2Project\src\main\resources
+2022-10-17 07:43:21,802 [Worker-38: Building Project Phase2Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-17 07:43:21,803 [Worker-38: Building Project Phase2Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\zahra\eclipse-workspace\phase2\Phase2Project\src\test\resources
+2022-10-17 07:43:21,803 [Worker-38: Building Project Phase2Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Phase2Project
+2022-10-17 07:43:21,803 [Worker-38: Building Project Phase2Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Phase2Project
+2022-10-17 07:43:21,807 [Worker-38: Building Project Phase2Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
